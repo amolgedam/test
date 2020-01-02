@@ -1,0 +1,4 @@
+[09-Mar-2019 06:32:33 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/bh7s86ouggwf/public_html/jvvcolombo.com/admin/application/controllers/Users.php on line 57
+[03-May-2019 10:21:44 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/bh7s86ouggwf/public_html/farmcartbiz.com/admin/application/controllers/ManageCashOrder.php on line 853
+[03-May-2019 10:22:15 UTC] PHP Fatal error:  Call to undefined method ManageCashOrder_model::GetOrderDetails() in /home/bh7s86ouggwf/public_html/farmcartbiz.com/admin/application/controllers/ManageCashOrder.php on line 826
+[09-May-2019 18:27:41 Asia/Kolkata] PHP Fatal error:  Class 'mPDF' not found in /home/bh7s86ouggwf/public_html/farmcartbiz.com/admin/application/libraries/M_pdf.php on line 13
